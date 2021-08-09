@@ -7,7 +7,7 @@ weapons: [
  name: smol-weapon
  reload: 7
  ejectEffect: casing1
- x: 2
+ x: 1
  y: 1
  top: false
  bullet: {

@@ -9,8 +9,8 @@ weapons: [
  name: smol-weapon
  reload: 10
  ejectEffect: casing1
- x: 1
- y: 1
+ x: 1.5
+ y: 0.5
  top: false
  bullet: {
   type: BasicBulletType

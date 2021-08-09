@@ -1,0 +1,25 @@
+health: 75
+hitsize: 4
+speed: 1
+type: mech
+weapons: [
+ {
+ name: smol-weapon
+ reload: 6.5
+ ejectEffect: casing1
+ x: 2
+ y: 1
+ top: false
+ bullet: {
+  type: BasicBulletType
+  speed: 2
+  width: 3.5
+  height: 4.5
+  lifetime: 60
+  shootEffect: shootSmall
+  smokeEffect: shootSmallSmoke
+  damage: 4.5
+  }
+ }
+ ]
+ 

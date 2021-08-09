@@ -2,6 +2,8 @@ health: 75
 hitsize: 4
 speed: 0.6
 type: mech
+mechSideSway: 2
+mechFrontSway: 0
 weapons: [
  {
  name: smol-weapon

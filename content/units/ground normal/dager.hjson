@@ -7,7 +7,7 @@ mechFrontSway: 0
 weapons: [
  {
  name: smol-weapon
- reload: 7
+ reload: 10
  ejectEffect: casing1
  x: 1
  y: 1
@@ -20,7 +20,7 @@ weapons: [
   lifetime: 60
   shootEffect: shootSmall
   smokeEffect: shootSmallSmoke
-  damage: 4.5
+  damage: 3
   }
  }
  ]
